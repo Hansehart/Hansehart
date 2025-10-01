@@ -5,7 +5,7 @@
 public class DeveloperService {
 
     private final String name = "Richi";
-    private final String languages = "Java, Python, TypeScript";
+    private final String[] languages = {"Java", "Python", "TypeScript"};
     private final String platform = "Cloud";
     private final String codingPartner = "Claude Code";
     private final String since = "2020";
